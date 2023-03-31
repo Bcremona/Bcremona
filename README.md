@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Bcremona
-- 👀 I’m interested in Data science and backend development. 
-- 🌱 I’m currently learning javascript for backend, mongoDB and AWS.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Data science and fullstack development. 
+- 🌱 I’m currently learning python.
 - 📫 How to reach me bautistacremona@gmail.com
 
 <!---
