@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bcremona
-- 👀 I’m interested in Data science and fullstack development. 
-- 🌱 I’m currently learning python.
+- 👀 I’m interested in Web development. 
+- 🌱 I’m currently learning React Native...
 - 📫 How to reach me bautistacremona@gmail.com
 
 <!---
